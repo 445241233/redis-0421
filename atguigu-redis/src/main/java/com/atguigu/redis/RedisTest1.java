@@ -8,7 +8,7 @@ public class RedisTest1 {
         System.out.println("hello=====hotfix");
         System.out.println("hello");//test push
         System.out.println("hello");//EDIT BY B
-        System.out.println("hello");
+        System.out.println("hello");//EDIT BY feature-X
         System.out.println("hello");
         System.out.println("hello");
     }
