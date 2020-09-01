@@ -5,6 +5,7 @@ public class RedisTest1 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello=====master");
+        System.out.println("hello=====hotfix");
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
